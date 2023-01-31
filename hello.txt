@@ -3,3 +3,7 @@ hello hitesh
 hello jain
 
 hello bhaiii
+
+git add remote origin <url>-- link ko remotly add krdo
+git branch -m main --- branch ka name main
+git push -u origin main--- push krdo origin mai -- link pr -- main branch pr 
