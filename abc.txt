@@ -1,1 +1,3 @@
 hello i am a txt file
+
+i am having fun learning git
